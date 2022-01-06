@@ -15,7 +15,9 @@
 * [139. Word Break](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/139.%20Word%20Break)
 
 
-# Placeholder
+# [Stack](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/stack)
+* [Monotonic Stack](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/stack/Monotonic%20Stack)
+    * [42. Trapping Rain Water](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/stack/Monotonic%20Stack/42.%20Trapping%20Rain%20Water)
 # Placeholder
 # Placeholder
 # Placeholder
