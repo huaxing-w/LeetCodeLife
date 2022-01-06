@@ -1,9 +1,22 @@
 # LeetCodeLife
 
-|      |        |
-| -------- | -------------- |
-| <img style="float: right;" src="https://github.com/huaxing-w/LeetCodeLife/blob/main/others/coding%20gif.gif?raw=true" height="220px" width="350px"> <br/> <img style="float: left;" src="https://img.shields.io/github/commit-activity/w/huaxing-w/LeetCodeLife?style=for-the-badge"> | <img style="float: right;" src="https://github.com/huaxing-w/LeetCodeLife/blob/main/others/carbon%20(2).png?raw=true" height="300px" width="300px">|
+<img style="float: left;" src="https://github.com/huaxing-w/LeetCodeLife/blob/main/others/coding%20gif.gif?raw=true" height="220px" width="350px">
+<img style="float: left;" src="https://img.shields.io/github/commit-activity/w/huaxing-w/LeetCodeLife">
 
+<img style="float: left;" src="https://img.shields.io/github/last-commit/huaxing-w/LeetCodeLife">
+<br/>
+<br/>
+<img style="float: left;" src="https://komarev.com/ghpvc/?username=huaxing-w">
+<br/>
+<img style="float: left;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
