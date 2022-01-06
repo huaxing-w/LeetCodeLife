@@ -1,6 +1,6 @@
 # LeetCodeLife
 <div>
-    <p style="float: left;"><img src="https://github.com/huaxing-w/LeetCodeLife/blob/main/others/coding%20gif.gif?raw=true" height="300px" width="400px" ></p>
+    <p style="float: left;"><img src="https://github.com/huaxing-w/LeetCodeLife/blob/main/others/coding%20gif.gif?raw=true" height="220px" width="300px" ></p>
     
 </div>
 
