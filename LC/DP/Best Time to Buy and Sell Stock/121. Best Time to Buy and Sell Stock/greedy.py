@@ -6,3 +6,4 @@ class Solution:
             ans=max(ans,i-min_)
             min_=min(min_,i)
         return ans
+        

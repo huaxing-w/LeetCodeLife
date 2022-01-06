@@ -7,7 +7,7 @@
 
 
 
-# dp
+# [DP](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP)
 * [Best Time to Buy and Sell Stock](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
     * [121. Best Time to Buy and Sell Stock](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
     * [122. Best Time to Buy and Sell Stock II](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
