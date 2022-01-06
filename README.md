@@ -1,14 +1,8 @@
 # LeetCodeLife
 
-<img style="float: left;" src="https://github.com/huaxing-w/LeetCodeLife/blob/main/others/coding%20gif.gif?raw=true" height="220px" width="350px">
-<img style="float: left;" src="https://img.shields.io/github/commit-activity/w/huaxing-w/LeetCodeLife">
-
-<img style="float: left;" src="https://img.shields.io/github/last-commit/huaxing-w/LeetCodeLife">
+<img style="float: left;" src="https://github.com/huaxing-w/LeetCodeLife/blob/main/others/coding%20gif.gif?raw=true" height="220px" width="350px"><img style="float: left;" src="https://img.shields.io/github/commit-activity/w/huaxing-w/LeetCodeLife"><img style="float: left;" src="https://img.shields.io/github/last-commit/huaxing-w/LeetCodeLife"><img style="float: left;" src="https://komarev.com/ghpvc/?username=huaxing-w"><img style="float: left;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br/>
 <br/>
-<img style="float: left;" src="https://komarev.com/ghpvc/?username=huaxing-w">
-<br/>
-<img style="float: left;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br/>
 <br/>
 <br/>
