@@ -15,5 +15,5 @@ remember dp array has actually 1 length longer than the actual string
 <br/>
 so dp[i] represent the the word end in index i-1
 <br/>
-or you could say, the s[i] is the next word after dp array
+or you could say, the s[i] is the next word after dp array i
 
