@@ -1,5 +1,7 @@
 
 # 2022-01-06
+
+* two pass 
 the way to use monotonic stack in the problem is not to find first bigger element or first smaller element
 <br/>
 but rather simple than the usual monotonic stack problem
