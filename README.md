@@ -20,6 +20,9 @@
     * [42. Trapping Rain Water](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/stack/Monotonic%20Stack/42.%20Trapping%20Rain%20Water)
 # [Backing Track](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Backing%20Track)
 * [90. Subsets II](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Backing%20Track/90.%20Subsets%20II)
+* [47. Permutations II](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Backing%20Track/47.%20Permutations%20II)
+
+
 # Placeholder
 # Placeholder
 # Placeholder

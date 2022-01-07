@@ -16,3 +16,7 @@ understand the sequence, what happened first and what happened next
 we are working on ith number right now, when i-1 number is false, and i and i-1 is the same
 <br>
 it means it just come back from the backing track, we should not go that path again
+
+
+
+it is really hard to understand, I could only say I understand 35% of the whole process at this moment.
