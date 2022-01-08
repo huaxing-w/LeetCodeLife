@@ -14,3 +14,5 @@ def backtrack(unknowarea, res, path):
 
 ```
 here is the typical backing track template
+
+the hard part is how to elimate the duplication
