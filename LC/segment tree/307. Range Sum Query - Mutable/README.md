@@ -24,6 +24,12 @@ this should be the first exit condition
 ```
 
 the range that should return tree[node]
-l-------------r
-  start---end
+
+
+l----------------------r
+
+
+    start-----end
+  
+  
 this should end the recursion, and return tree[node]
