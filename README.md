@@ -24,7 +24,7 @@
 * [40. Combination Sum II](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Backing%20Track/40.%20Combination%20Sum%20II)
 
 
-# [Stack](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/segment%20tree)
+# [Segment Tree](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/segment%20tree)
 * [307. Range Sum Query - Mutable](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/segment%20tree/307.%20Range%20Sum%20Query%20-%20Mutable)
 # Placeholder
 # Placeholder
