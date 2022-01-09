@@ -30,9 +30,13 @@
 * [307. Range Sum Query - Mutable](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/segment%20tree/307.%20Range%20Sum%20Query%20-%20Mutable)
 
 # [Math](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/math)
-* [263. Ugly Number](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/math/263.%20Ugly%20Number)
-* [264. Ugly Number II](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/math/264.%20Ugly%20Number%20II)
-* [1201. Ugly Number III](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/math/1201.%20Ugly%20Number%20III)
+* [Ugly Number](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/math)
+  * [263. Ugly Number](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/math/ugly%20number/263.%20Ugly%20Number)
+  * [264. Ugly Number II](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/math/ugly%20number/264.%20Ugly%20Number%20II)
+  * [1201. Ugly Number III](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/math/ugly%20number/1201.%20Ugly%20Number%20III)
+  
+  
+  
 # Placeholder
 
 
