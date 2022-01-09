@@ -12,3 +12,5 @@ or we should do
 ```python
 dp[i][1]=dp[i-1][0]+lst[i]
 ```
+
+I don't quite understand this part
