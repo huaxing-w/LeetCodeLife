@@ -40,6 +40,9 @@
   * [1201. Ugly Number III](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/math/ugly%20number/1201.%20Ugly%20Number%20III)
   
   
+
+# [Greedy](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Greedy)
+* [2136. Earliest Possible Day of Full Bloom](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Greedy/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom)
   
 # Placeholder
 
