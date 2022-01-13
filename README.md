@@ -54,6 +54,7 @@
 # [KMP](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP)
 * [1392. Longest Happy Prefix](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/1392.%20Longest%20Happy%20Prefix)
 * [28. Implement strStr()](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/28.%20Implement%20strStr())
+* [214. Shortest Palindrome](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/214.%20Shortest%20Palindrome)
 
 
 
