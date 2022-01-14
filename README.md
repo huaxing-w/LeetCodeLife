@@ -4,7 +4,6 @@
 | -------- | -------------- |
 | <img style="float: left;" src="https://github.com/huaxing-w/LeetCodeLife/blob/main/others/coding%20gif.gif?raw=true" height="220px" width="350px"> |<img style="float: left;" src="https://img.shields.io/github/commit-activity/w/huaxing-w/LeetCodeLife"><br/><img style="float: left;" src="https://img.shields.io/github/last-commit/huaxing-w/LeetCodeLife"><br/><img style="float: left;" src="https://komarev.com/ghpvc/?username=huaxing-w"><br><img style="float: left;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-
 # [DP](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP)
 * [Best Time to Buy and Sell Stock](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
     * [121. Best Time to Buy and Sell Stock](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
@@ -56,6 +55,11 @@
 * [1392. Longest Happy Prefix](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/1392.%20Longest%20Happy%20Prefix)
 * [28. Implement strStr()](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/28.%20Implement%20strStr())
 * [214. Shortest Palindrome](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/214.%20Shortest%20Palindrome)
+
+
+# [Binary Search](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Binary%20Search)
+* [Search By Value](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Binary%20Search/search%20by%20value)
+  * [378. Kth Smallest Element in a Sorted Matrix](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Binary%20Search/search%20by%20value/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
 
 
 
