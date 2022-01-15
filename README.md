@@ -29,6 +29,7 @@
     * [42. Trapping Rain Water](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/stack/Monotonic%20Stack/42.%20Trapping%20Rain%20Water)
     * [402. Remove K Digits](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/stack/Monotonic%20Stack/402.%20Remove%20K%20Digits)
     * [456. 132 Pattern](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/stack/Monotonic%20Stack/456.%20132%20Pattern)
+    * [84. Largest Rectangle in Histogram](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/stack/Monotonic%20Stack/84.%20Largest%20Rectangle%20in%20Histogram)
 # [Backing Track](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Backing%20Track)
 * [90. Subsets II](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Backing%20Track/90.%20Subsets%20II)
 * [47. Permutations II](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Backing%20Track/47.%20Permutations%20II)
