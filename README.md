@@ -80,6 +80,12 @@
 
 
 
+# [Graph](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph)
+* [Bipartition](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Bipartition)
+  * [785. Is Graph Bipartite](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Bipartition/785.%20Is%20Graph%20Bipartite)
+  * [886. Possible Bipartition](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Bipartition/886.%20Possible%20Bipartition)
+
+
 # Placeholder
 
 
