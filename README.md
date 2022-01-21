@@ -84,11 +84,8 @@
 * [Bipartition](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Bipartition)
   * [785. Is Graph Bipartite](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Bipartition/785.%20Is%20Graph%20Bipartite)
   * [886. Possible Bipartition](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Bipartition/886.%20Possible%20Bipartition)
-
 * [Union Find](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Union%20Find)
   * [305. Number of Islands II](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Union%20Find/305.%20Number%20of%20Islands%20II)
-
-
 * [Find Circle](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Find%20Circle)
   * [Directed Graph](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Find%20Circle/Directed%20Graph)
   * [Undirected Graph](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Graph/Find%20Circle/Undirected%20Graph)
