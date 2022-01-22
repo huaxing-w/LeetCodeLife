@@ -59,6 +59,10 @@
 * [1392. Longest Happy Prefix](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/1392.%20Longest%20Happy%20Prefix)
 * [28. Implement strStr()](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/28.%20Implement%20strStr())
 * [214. Shortest Palindrome](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/214.%20Shortest%20Palindrome)
+  
+# [Heap](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/heap)
+* [358. Rearrange String k Distance Apart](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/heap/358.%20Rearrange%20String%20k%20Distance%20Apart)
+
 
 
 # [Binary Search](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Binary%20Search)
