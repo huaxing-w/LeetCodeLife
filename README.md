@@ -68,6 +68,7 @@
 # [Binary Search](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Binary%20Search)
 * [Search By Value](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Binary%20Search/search%20by%20value)
   * [378. Kth Smallest Element in a Sorted Matrix](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Binary%20Search/search%20by%20value/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
+  * [875. Koko Eating Bananas](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Binary%20Search/search%20by%20value/875.%20Koko%20Eating%20Bananas)
 
 
 # [Trie](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/trie)
