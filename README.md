@@ -72,6 +72,7 @@
 
 # [Trie](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/trie)
 * [421. Maximum XOR of Two Numbers in an Array](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/trie/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)
+* [211. Design Add and Search Words Data Structure](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/trie/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure)
   
 
 
