@@ -70,6 +70,10 @@
   * [378. Kth Smallest Element in a Sorted Matrix](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Binary%20Search/search%20by%20value/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
 
 
+# [Trie](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/trie)
+* [421. Maximum XOR of Two Numbers in an Array](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/trie/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)
+  
+
 
 
 
