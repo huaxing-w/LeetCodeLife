@@ -55,7 +55,7 @@
 * [2136. Earliest Possible Day of Full Bloom](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Greedy/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom)
   
 
-# [KMP](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP)
+# [KMP/Rolling Hash](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP)
 * [1392. Longest Happy Prefix](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/1392.%20Longest%20Happy%20Prefix)
 * [28. Implement strStr()](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/28.%20Implement%20strStr())
 * [214. Shortest Palindrome](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/214.%20Shortest%20Palindrome)
