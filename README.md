@@ -54,6 +54,10 @@
 # [Greedy](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Greedy)
 * [2136. Earliest Possible Day of Full Bloom](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/Greedy/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom)
   
+# [Sliding Window](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/sliding%20window)
+* [1763. Longest Nice Substring](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/sliding%20window/1763.%20Longest%20Nice%20Substring)
+* [395. Longest Substring with At Least K Repeating Characters](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/sliding%20window/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)
+  
 
 # [KMP/Rolling Hash](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP)
 * [1392. Longest Happy Prefix](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/1392.%20Longest%20Happy%20Prefix)
