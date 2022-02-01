@@ -67,6 +67,7 @@
 * [1316. Distinct Echo Substrings](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/1316.%20Distinct%20Echo%20Substrings)
 * [1062. Longest Repeating Substring](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/1062.%20Longest%20Repeating%20Substring)
 * [1044. Longest Duplicate Substring](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/1044.%20Longest%20Duplicate%20Substring)
+* [1147. Longest Chunked Palindrome Decomposition](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP/1147.%20Longest%20Chunked%20Palindrome%20Decomposition)
   
 # [Heap](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/heap)
 * [358. Rearrange String k Distance Apart](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/heap/358.%20Rearrange%20String%20k%20Distance%20Apart)
