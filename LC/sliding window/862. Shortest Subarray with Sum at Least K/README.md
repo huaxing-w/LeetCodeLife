@@ -22,3 +22,9 @@ class Solution(object):
         return ans if ans < N+1 else -1
 
 ```
+
+this is a very good question
+
+you have to find the trait of the question 
+
+this type of question is testing your iq, do the questions on codeforce to improve it not leetcode
