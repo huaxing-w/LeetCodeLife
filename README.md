@@ -57,6 +57,7 @@
 # [Sliding Window](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/sliding%20window)
 * [1763. Longest Nice Substring](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/sliding%20window/1763.%20Longest%20Nice%20Substring)
 * [395. Longest Substring with At Least K Repeating Characters](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/sliding%20window/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)
+* [862. Shortest Subarray with Sum at Least K](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/sliding%20window/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)
   
 
 # [KMP/Rolling Hash](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/KMP)
