@@ -6,7 +6,7 @@
 
 # [DP](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP)  
 
-*[LCS](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+* [LCS](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
     * [1143. Longest Common Subsequence](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/LCS/1143.%20Longest%20Common%20Subsequence)
     * [Sqquence Matching](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/LCS/E%20-%20Sequence%20Matching)
 
