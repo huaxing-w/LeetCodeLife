@@ -26,7 +26,8 @@
     * [712. Minimum ASCII Delete Sum for Two Strings](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/double%20string%20dp/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings)
     * [115. Distinct Subsequences](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/double%20string%20dp/115.%20Distinct%20Subsequences)
     * [72. Edit Distance](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/double%20string%20dp/72.%20Edit%20Distance)
-
+* [other](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/House%20Robber)
+    * [Magical Well Of Lilies](https://github.com/huaxing-w/LeetCodeLife/tree/main/LC/DP/double%20string%20dp/72.%20Edit%20Distance)
 
 
 
